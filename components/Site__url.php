@@ -1,0 +1,9 @@
+<?php
+    define('SITE__PATH','http://pioadmsys.rf.gd')
+?><?php
+    define('SITE__PATH','http://pioadmsys.rf.gd')
+?><?php
+    define('SITE__PATH','http://pioadmsys.rf.gd')
+?><?php
+    define('SITE__PATH','http://pioadmsys.rf.gd')
+?>
